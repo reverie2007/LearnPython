@@ -5,35 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb314e52-8552-4ebb-9687-e5547ff17eb6" name="Default" comment="从pycharm中提交">
-      <change afterPath="$PROJECT_DIR$/leeCode/123gupiao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leeCode/219dumplacate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leeCode/38baoshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leeCode/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3/adpter_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3/daoru.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3/exmple1_sqlite3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3/jiekou.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3/jiekou2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3/sqlite3and_sqlite3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/coroutine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/generator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/propety.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/wraps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/zhihu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数独/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数独/gen/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数独/gen/num_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/pythontest/pythonds/basic/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/pythontest/queueop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/pythontest/rebursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/pythontest/sortpractice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/LearnPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game2048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础知识/basic1.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/basic1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/数据结构与算法笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/数据结构与算法笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,94 +22,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/basic1.py">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/stackop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="-8">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leeCode/219dumplacate.py">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/sortpractice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/generator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/generator2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/propety.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sqlite3/daoru.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="421">
+              <caret line="123" column="27" lean-forward="true" selection-start-line="123" selection-start-column="27" selection-end-line="123" selection-end-column="27" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#20#46#0" expanded="true" />
+                <element signature="e#91#346#0" />
+                <element signature="e#392#708#0" />
+                <element signature="e#769#1157#0" />
+                <element signature="e#1241#2081#0" />
+                <element signature="e#3241#3676#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/example.log">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/rebursion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2888">
-              <caret line="152" column="3" lean-forward="true" selection-start-line="152" selection-start-column="3" selection-end-line="152" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/zhihu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/scope.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/coroutine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="-8">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -153,7 +73,11 @@
       <find>人赞同了该回答</find>
       <find>感谢</find>
       <find>默认排序</find>
+      <find>pt.right</find>
     </findStrings>
+    <replaceStrings>
+      <replace>pt['right']</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -188,6 +112,12 @@
         <option value="$PROJECT_DIR$/基础知识/basic1.py" />
         <option value="$PROJECT_DIR$/leeCode/123gupiao.py" />
         <option value="$PROJECT_DIR$/leeCode/219dumplacate.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/pythontest/rebursion.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/数据结构与算法笔记.md" />
+        <option value="$PROJECT_DIR$/数据结构与算法/pythontest/pythonds/basic/queue.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/pythontest/queueop.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/pythontest/stackop.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/pythontest/sortpractice.py" />
       </list>
     </option>
   </component>
@@ -231,6 +161,24 @@
             <path>
               <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
+              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
+              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnPython" type="462c0819:PsiDirectoryNode" />
               <item name="数独" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -242,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -256,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.219dumplacate">
+  <component name="RunManager" selected="Python.sortpractice">
     <configuration name="219dumplacate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basic1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="queueop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础知识" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/pythontest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础知识/basic1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/pythontest/queueop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generator2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rebursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础知识" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/pythontest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础知识/generator2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/pythontest/rebursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="propety" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sortpractice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,11 +276,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础知识" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/pythontest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础知识/propety.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/pythontest/sortpractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zhihu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="stackop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础知识" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/pythontest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础知识/zhihu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/pythontest/stackop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,18 +312,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.219dumplacate" />
-      <item itemvalue="Python.basic1" />
-      <item itemvalue="Python.generator2" />
-      <item itemvalue="Python.propety" />
-      <item itemvalue="Python.zhihu" />
+      <item itemvalue="Python.stackop" />
+      <item itemvalue="Python.rebursion" />
+      <item itemvalue="Python.queueop" />
+      <item itemvalue="Python.sortpractice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sortpractice" />
+        <item itemvalue="Python.queueop" />
+        <item itemvalue="Python.rebursion" />
+        <item itemvalue="Python.stackop" />
         <item itemvalue="Python.219dumplacate" />
-        <item itemvalue="Python.basic1" />
-        <item itemvalue="Python.zhihu" />
-        <item itemvalue="Python.propety" />
-        <item itemvalue="Python.generator2" />
       </list>
     </recent_temporary>
   </component>
@@ -418,19 +366,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560910660144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="从pycharm中提交">
+      <created>1576674900166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576674900166</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24920969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31453362" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,6 +540,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leeCode/219dumplacate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/basic1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -616,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sqlite3/daoru.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
@@ -626,36 +587,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/example.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2888">
-          <caret line="152" column="3" lean-forward="true" selection-start-line="152" selection-start-column="3" selection-end-line="152" selection-end-column="3" />
+        <state relative-caret-position="830">
+          <caret line="152" column="3" selection-start-line="152" selection-start-column="3" selection-end-line="152" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/scope.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/coroutine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="228">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leeCode/219dumplacate.py">
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/pythonds/basic/stack.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/queueop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="323">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#183#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/pythonds/basic/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/rebursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/数据结构与算法笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="513">
+            <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/stackop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/pythontest/sortpractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="123" column="27" lean-forward="true" selection-start-line="123" selection-start-column="27" selection-end-line="123" selection-end-column="27" />
+          <folding>
+            <element signature="e#20#46#0" expanded="true" />
+            <element signature="e#91#346#0" />
+            <element signature="e#392#708#0" />
+            <element signature="e#769#1157#0" />
+            <element signature="e#1241#2081#0" />
+            <element signature="e#3241#3676#0" />
+          </folding>
         </state>
       </provider>
     </entry>
